@@ -1,0 +1,2 @@
+# vimrc
+Ma config vim
