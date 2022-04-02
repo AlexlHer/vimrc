@@ -1,2 +1,2 @@
 # vimrc
-Ma config vim
+Ma configuration vim.
